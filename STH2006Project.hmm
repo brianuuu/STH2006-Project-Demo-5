@@ -1,0 +1,10 @@
+Patch "Save Without Completing Green Hill Act 1" by "brianuuu"
+string code = @"mov eax,0x1E66B34
+mov eax,[eax]
+mov eax,[eax+0x4]
+mov eax,[eax+0x1B4]
+mov eax,[eax+0x7C]
+mov dword ptr [eax+0x138], 0x26
+mov eax, dword ptr [esp+0x10]
+mov ecx, dword ptr [eax+0x8]"
+WriteAsmHook(code, 0xD60DEA, HookBehavior.Replace)
