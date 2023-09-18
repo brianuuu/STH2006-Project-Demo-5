@@ -1,6 +1,12 @@
-## STH2006 Project Demo 5 + Mission Extravaganze v2.0
+## STH2006 Project Demo 5 + Mission Extravaganza v2.1
 
 - PLEASE DOWNLOAD THE FULL MOD AT GAMEBANANA PAGE, GITHUB DOES NOT SUPPORT MODS WITH LARGE UPDATE SERVER
+- HE1ML compatibility
+- Direct3D 11 compatibility
+
+
+## STH2006 Project Demo 5 + Mission Extravaganza v2.0
+
 - Recreated Title Screen & Main Menu
 - New Stages, Wave Ocean: Blaze, Gems Training Ground
 - 6 New Missions
