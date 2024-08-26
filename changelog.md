@@ -1,6 +1,11 @@
-## STH2006 Project Demo 5 + Mission Extravaganza v2.1
+## STH2006 Project Demo 5 + Mission Extravaganza v2.2
 
 - PLEASE DOWNLOAD THE FULL MOD AT GAMEBANANA PAGE, GITHUB DOES NOT SUPPORT MODS WITH LARGE UPDATE SERVER
+- Fixed mod order issue from code
+
+
+## STH2006 Project Demo 5 + Mission Extravaganza v2.1
+
 - HE1ML compatibility
 - Direct3D 11 compatibility
 
